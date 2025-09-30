@@ -1,5 +1,5 @@
 {
-  "name": "SmartThings Custom",
+  "name": "SmartThings Softener Fix",
   "domains": ["binary_sensor","climate", "cover", "fan", "light", "lock", "select", "sensor", "switch", "number", "button"],
   "homeassistant": "2021.12.7",
   "render_readme": true,
