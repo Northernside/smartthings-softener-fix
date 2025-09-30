@@ -1,7 +1,7 @@
 {
-  "domain": "smartthings",
-  "name": "SmartThings",
-  "codeowners": ["@joostlek"],
+  "domain": "smartthings_softener_fix",
+  "name": "SmartThings Softener Fix",
+  "codeowners": ["@northernside", "@joostlek"],
   "config_flow": true,
   "dependencies": ["application_credentials"],
   "dhcp": [
